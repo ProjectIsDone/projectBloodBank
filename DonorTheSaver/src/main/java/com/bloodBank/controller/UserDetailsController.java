@@ -57,5 +57,4 @@ public class UserDetailsController
 	   return "home";
    }
   
-
 }
